@@ -4,3 +4,4 @@ function updateObjectWithKeyAndValue(recipes, prop, amount){
   return recipes
 }
 updateObjectWithKeyAndValue(recipes, 'prop2', 2)
+console.log(recipes);
